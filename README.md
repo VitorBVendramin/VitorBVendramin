@@ -1,16 +1,51 @@
-## Hi there 👋
+# Olá, eu sou o Vitor Vendramin! 👋
 
-<!--
-**VitorBVendramin/VitorBVendramin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Tecnólogo em ADS (Anhanguera) | Cursando Eng. de Software (Unianchieta)
+💻 Desenvolvedor Back-end em formação
+📍 Jundiaí, SP
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Desenvolvedor Back-end em formação com experiência prática em Python e SQL.
+Formado em Análise e Desenvolvimento de Sistemas e atualmente cursando Engenharia de Software,
+construindo projetos reais para consolidar meu aprendizado e entrar no mercado de tecnologia.
+
+- 🔭 Atualmente desenvolvendo um **Sistema de Gestão de Clientes e Vendas** em Python
+- 🌱 Aprendendo **Python, SQL, Git e Back-end**
+- 🎯 Objetivo: conquistar meu primeiro estágio em T.I
+- ⚡ Tenho experiência em ambiente industrial e sei a importância de processos e qualidade
+
+---
+
+## 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📌 Projetos em destaque
+
+| Projeto | Tecnologias | Descrição |
+|---------|-------------|-----------|
+| [Sistema de Gestão de Clientes e Vendas](https://github.com/VitorBVendramin) | Python, SQLite | CRUD de clientes com registro de vendas e relatórios |
+| [Automação de Relatórios](https://github.com/VitorBVendramin) | Python, Pandas | Lê arquivos CSV e gera relatórios automaticamente |
+
+---
+
+## 🌐 Idiomas
+
+🇧🇷 Português — Fluente
+🇺🇸 Inglês — Intermediário
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vitorvendramin-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/vitorvendramin/)
+[![Email](https://img.shields.io/badge/Email-vvendramin@hotmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vvendramin@hotmail.com)
