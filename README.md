@@ -33,8 +33,7 @@ construindo projetos reais para consolidar meu aprendizado e entrar no mercado d
 
 | Projeto | Tecnologias | Descrição |
 |---------|-------------|-----------|
-| [Sistema de Gestão de Clientes e Vendas](https://github.com/VitorBVendramin) | Python, SQLite | CRUD de clientes com registro de vendas e relatórios |
-| [Automação de Relatórios](https://github.com/VitorBVendramin) | Python, Pandas | Lê arquivos CSV e gera relatórios automaticamente |
+|
 
 ---
 
