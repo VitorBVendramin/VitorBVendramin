@@ -39,8 +39,8 @@ construindo projetos reais para consolidar meu aprendizado e entrar no mercado d
 
 ## 🌐 Idiomas
 
-🇧🇷 Português — Fluente
-🇺🇸 Inglês — Intermediário
+🇧🇷 Português — Fluente  
+🇺🇸 Inglês — Intermediário  
 
 ---
 
