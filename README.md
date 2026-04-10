@@ -34,7 +34,7 @@ construindo projetos reais para consolidar meu aprendizado e entrar no mercado d
 | Projeto | Tecnologias | Descrição |
 |---------|-------------|-----------|
 | [Sistema de Gestão de Clientes e Vendas](https://github.com/VitorBVendramin) | Python, SQLite | CRUD de clientes com registro de vendas e relatórios |
-| [Jogo de advinhação | Python | Jogo onde precisa acertar o número correto |
+| [Jogo de advinhação] | Python | Jogo onde precisa acertar o número correto |
 
 ---
 
