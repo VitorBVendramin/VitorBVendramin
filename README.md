@@ -29,11 +29,10 @@ construindo projetos reais para consolidar meu aprendizado e entrar no mercado d
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 5 melhores projetos em destaque
 
 | Projeto | Tecnologias | Descrição |
 |---------|-------------|-----------|
-| Sistema de Gestão de Clientes e Vendas | Python, SQLite | CRUD de clientes com registro de vendas e relatórios |
 | [Jogo de Adivinhação](https://github.com/VitorBVendramin/Estudo/tree/main/Python/projetos/jogo-adivinhacao) | Python | Jogo onde precisa acertar o número correto |
 | [Sistema simulando caixa eletrônico](https://github.com/VitorBVendramin/Estudo/tree/main/Python/projetos/caixa-eletronico) | Python | Sistema como se fosse saque e depósito de um caixa eletrônico |
 
