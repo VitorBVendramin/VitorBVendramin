@@ -48,7 +48,7 @@ construindo projetos reais para consolidar meu aprendizado e entrar no mercado d
 
 ## 📫 Contato
 
-# Fique a vontade para me chamar no LinkedIn ou Email 😄
+### Fique a vontade para me chamar no LinkedIn ou Email 😄
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vitorvendramin-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/vitorvendramin/)
 [![Email](https://img.shields.io/badge/Email-vvendramin@hotmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vvendramin@hotmail.com)
