@@ -33,8 +33,9 @@ construindo projetos reais para consolidar meu aprendizado e entrar no mercado d
 
 | Projeto | Tecnologias | Descrição |
 |---------|-------------|-----------|
-| [Jogo de Adivinhação](https://github.com/VitorBVendramin/Estudo/tree/main/Python/projetos/jogo-adivinhacao) | Python | Jogo onde precisa acertar o número correto |
+| [Sistema de Gestão de Clientes e Vendas](https://github.com/VitorBVendramin/Estudo/tree/main/Python/projetos/sistema-gestao-clientes) | Python, SQLite | CRUD de clientes, produtos e vendas com banco de dados |
 | [Sistema simulando caixa eletrônico](https://github.com/VitorBVendramin/Estudo/tree/main/Python/projetos/caixa-eletronico) | Python | Sistema como se fosse saque e depósito de um caixa eletrônico |
+| [Jogo de Adivinhação](https://github.com/VitorBVendramin/Estudo/tree/main/Python/projetos/jogo-adivinhacao) | Python | Jogo onde precisa acertar o número correto |
 
 ---
 
