@@ -29,6 +29,13 @@ construindo projetos reais para consolidar meu aprendizado e entrar no mercado d
 
 ---
 
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorBVendramin&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorBVendramin&layout=compact&theme=dark&hide_border=true)
+
+---
+
 ## 📌 5 melhores projetos em destaque
 
 | Projeto | Tecnologias | Descrição |
