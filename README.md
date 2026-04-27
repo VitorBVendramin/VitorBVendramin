@@ -21,8 +21,6 @@ construindo projetos reais para consolidar meu aprendizado e entrar no mercado d
 
 ## 🛠️ Tecnologias que uso
 
-<div align="center">
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
